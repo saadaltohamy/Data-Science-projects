@@ -5,12 +5,18 @@ This repository contains a collection of data science projects, each organized i
 ## 1. Car Price Prediction
 **Folder:** `Car Price Prediction/`
 
+**Tech Stack:**
+- Python (pandas, numpy, matplotlib, seaborn, scikit-learn, xgboost, catboost, lightgbm, fuzzywuzzy)
+
 - **car_price.ipynb**: A comprehensive Jupyter notebook that walks through the process of predicting car prices. The notebook covers data cleaning, feature engineering, exploratory data analysis, and the application of various machine learning models (including KNN, Lasso, Ridge, Random Forest, Stacking, and more) to predict car prices. It includes detailed steps for handling missing values, outliers, and categorical variables, as well as model evaluation and comparison.
 - **train.csv**: The training dataset containing car features and prices used for model training and validation.
 - **test.csv**: The test dataset used for evaluating model performance and making final predictions.
 
 ## 2. Candy Data Cleaning
 **Folder:** `Candy Data Cleaning/`
+
+**Tech Stack:**
+- Python (pandas, numpy)
 
 - **Candy Template.ipynb**: A Jupyter notebook focused on cleaning and analyzing candy survey data. The notebook likely includes steps for data preprocessing, handling missing values, and basic exploratory analysis.
 - **candyhierarchy2017.csv**: The main dataset containing survey responses about various candies from 2017.
@@ -20,17 +26,26 @@ This repository contains a collection of data science projects, each organized i
 ## 3. Data analysis
 **Folder:** `Data analysis/`
 
+**Tech Stack:**
+- Python (pandas, matplotlib, seaborn)
+
 - **visualization.ipynb**: A Jupyter notebook for data visualization, likely using the `supermarket_sales.csv` dataset.
 - **supermarket_sales.csv**: A dataset containing sales data from a supermarket, used for analysis and visualization in the notebook.
 
 ## 4. EDA (Exploratory Data Analysis)
 **Folder:** `EDA/`
 
+**Tech Stack:**
+- Python (pandas, matplotlib, seaborn)
+
 - **visualization.ipynb**: A Jupyter notebook focused on exploratory data analysis and visualization, using the `airline_passenger_satisfaction.csv` dataset.
 - **airline_passenger_satisfaction.csv**: A dataset containing information about airline passenger satisfaction, used for EDA in the notebook.
 
 ## 5. Web Scrapping
 **Folder:** `Web Scrapping/`
+
+**Tech Stack:**
+- Python (requests, BeautifulSoup, pandas)
 
 - **web_scrapping.ipynb**: A Jupyter notebook demonstrating web scraping techniques to collect job data.
 - **jobs.csv**: The resulting dataset containing job listings or related information, obtained through web scraping.
